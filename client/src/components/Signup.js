@@ -90,7 +90,7 @@ export const SignupForm = () => {
       <table style={{ padding: "15px" }}>
         <tbody>
           <tr>
-            <th>name</th>
+            <th>names</th>
             <th>email</th>
             <th>age</th>
           </tr>
